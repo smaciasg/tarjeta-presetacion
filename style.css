@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.usser-card {
+    width: 900px;
+    background-color: whitesmoke;
+    border: 3px solid grey;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 50px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.card-header {
+    background-color: yellowgreen;
+    height: 130px;
+    margin-bottom: 100px;
+}
+
+.avatar {
+    width: 140px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    border: 3px solid seashell;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: rgb(229, 255, 0);
+}
+
+.card-body {
+    padding: 0px 50px 20px;
+}
+
+.icon {
+    height: 20px;
+}
+
+h1, h3, p {
+    margin-bottom: 20px;
+}
+
+#edit_profile {
+    font-family: 'Almarai', sans-serif;
+}
